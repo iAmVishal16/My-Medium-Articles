@@ -14,6 +14,6 @@ A List of my Medium articles in SwiftUI
 
 [Triangle LinearGradient Animation in SwiftUI - Part 1](https://medium.com/@iamvishal16/triangle-lineargradient-animation-in-swiftui-9c0a5fc11586)
 
-[Top Technical Coding Questions for iOS Interviews Part-1]([https://medium.com/@iamvishal16/triangle-lineargradient-animation-in-swiftui-9c0a5fc11586](https://medium.com/gitconnected/top-technical-coding-questions-for-ios-interviews-part-1-a27888f69493))
+[Top Technical Coding Questions for iOS Interviews Part-1](https://medium.com/gitconnected/top-technical-coding-questions-for-ios-interviews-part-1-a27888f69493)
 
-[Top Technical Coding Questions for iOS Interviews Part-1]([https://medium.com/@iamvishal16/triangle-lineargradient-animation-in-swiftui-9c0a5fc11586](https://medium.com/gitconnected/top-technical-coding-questions-for-ios-interviews-part-1-a27888f69493))
+[Top Technical Coding Questions for iOS Interviews Part-2](https://medium.com/gitconnected/top-technical-coding-questions-for-ios-interviews-part-2-7b11907f1224)
